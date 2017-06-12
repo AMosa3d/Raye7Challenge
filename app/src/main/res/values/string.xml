@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_maps_API_key">AIzaSyCD9exzp9S3OSkp4cbi4zvQw9jASnbHYLE</string>
+    <string name="google_direction_API_key">AIzaSyCoU2gpR5gCd1T4Abh_V_E-5DfuZqVIbPg</string>
+</resources>

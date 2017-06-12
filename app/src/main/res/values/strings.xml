@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Raye7 Challenge</string>
+    <string name="generate_routes">Generate Routes</string>
+    <string name="all_time_trip">All Time Trip</string>
+    <string name="show_traffic">Enable Traffic</string>\
+    <string name="book_trip">Book Trip</string>
 </resources>
